@@ -1,4 +1,7 @@
-# Note: We had to include Facebook's model.py file in order to load their pretrained model.
+"""
+Code for Gulordava et al's LSTM model
+From https://github.com/facebookresearch/colorlessgreenRNNs
+"""
 
 # Copyright (c) 2018-present, Facebook, Inc.
 # All rights reserved.

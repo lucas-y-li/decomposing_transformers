@@ -1,5 +1,5 @@
 """
-Note: Copy of Google's original modeling.py (https://github.com/maknotavailable/pytorch-pretrained-BERT/blob/8d5d1aa631480e395cdeed85ebb6cc19e89e84ab/pytorch_pretrained_bert/modeling.py) with the embedding tweaks to reproduce the results of transformer RoBERTa
+Copy of Google's original modeling.py (https://github.com/maknotavailable/pytorch-pretrained-BERT/blob/8d5d1aa631480e395cdeed85ebb6cc19e89e84ab/pytorch_pretrained_bert/modeling.py) with the embedding tweaks to reproduce the results of transformer RoBERTa
 """
 
 
